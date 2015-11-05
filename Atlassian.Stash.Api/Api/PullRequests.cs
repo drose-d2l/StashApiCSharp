@@ -7,6 +7,7 @@ using Atlassian.Stash.Api.Entities;
 using Atlassian.Stash.Api.Helpers;
 using Atlassian.Stash.Api.Workers;
 
+<<<<<<< HEAD
 namespace Atlassian.Stash.Api.Api {
 	public class PullRequests {
 
